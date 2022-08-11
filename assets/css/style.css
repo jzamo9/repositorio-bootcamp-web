@@ -31,13 +31,14 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    align-self: center;
     height: 90vh;
     position: relative;
     
 }
 .hero {
     position: absolute;
-    top: 300px;
+    bottom: 300px;
     left: 0;
     right: 0;
     margin: auto;

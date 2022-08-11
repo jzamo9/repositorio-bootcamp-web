@@ -1,4 +1,7 @@
 
+html{
+    scroll-behavior: auto !important;
+}
 
 Body{
     margin: 0;
@@ -43,6 +46,7 @@ nav {
 
 .hero h1 {
     font-size: 64px;
+    font-weight: bold;
 }
 
 /* section about */
@@ -78,7 +82,7 @@ nav {
 
 .btn-danger {
     background-color: #F35C64;
-    /* width: 100%; */
+   
 }
 
 
@@ -86,5 +90,9 @@ nav {
 
 footer {
     background-color: #343451; ;
+    color:#F5F5FF;
+}
+
+footer .fa-brands {
     color:#F5F5FF;
 }

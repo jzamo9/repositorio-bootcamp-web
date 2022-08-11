@@ -38,7 +38,7 @@ nav {
 }
 .hero {
     position: absolute;
-    bottom: 180px;
+    top: 280px;
     left: 0;
     right: 0;
     margin: auto;
